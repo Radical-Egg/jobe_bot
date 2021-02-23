@@ -105,4 +105,4 @@ dist
 
 
 # config file with discord keys
-.config.json
+config.json
